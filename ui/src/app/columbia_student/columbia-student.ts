@@ -8,5 +8,5 @@ export class ColumbiaStudent {
 }
 
 export class ColumbiaStudentRsp {
-  data: ColumbiaStudent
+  data: ColumbiaStudent;
 }
